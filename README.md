@@ -1,3 +1,3 @@
 # kinoteatr
 
-#[Live demo](https://kinoteatr-k.vercel.app/)
+# [Live demo](https://kinoteatr-k.vercel.app/)
